@@ -4,7 +4,7 @@
 
 This repository contains files for teams to reuse when working in and with EPA Open Source projects.
 
-Also, this repository contains the link to [EPA's Interim Open Source Software Policy](https://www.epa.gov/irmpoli8/interim-open-source-software-oss-policy) and [EPA's draft Open Source Code Guidance](https://developer.epa.gov/guide/open-source-code/). 
+Also, this repository contains the link to [EPA's Interim Open Source Software Policy](https://www.epa.gov/irmpoli8/interim-open-source-software-oss-policy) and [EPA's Open Source Code Guidance](https://developer.epa.gov/guide/open-source-code/). 
 
 **[Read EPA's open source software policy.](https://www.epa.gov/irmpoli8/interim-open-source-software-oss-policy)**
 
