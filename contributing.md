@@ -5,4 +5,6 @@ We’re so glad you’re thinking about contributing to an EPA open source proje
 We encourage you to read this project’s CONTRIBUTING policy (you are here), its
 LICENSE, and its [README](https://github.com/USEPA/open-source-projects/blob/master/readme.md).
 
+All contributions to this project will be released under the MIT dedication. By submitting a pull request or issue, you are agreeing to comply with this waiver of copyright interest.
+
 If you have any questions or want to read more, check out the [EPA Open Source Project Repo](https://github.com/USEPA/open-source-projects) and [EPA's Interim Open Source Code Guidance](https://developer.epa.gov/guide/open-source-code/).
