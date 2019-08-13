@@ -14,18 +14,11 @@ For EPA Teams, we have guidance on how EPA puts this EPA's Interim Open Source S
 
 **[Read EPA's Open Source Code guidance.](https://developer.epa.gov/guide/open-source-code/)**
 
+[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to resuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, and contributing.md file.   
+
 ### Credits
 
 This repository reused material from [GSA](https://www.gsa.gov/), [18F](https://18f.gsa.gov/) , [Lawrence Livermore National Lab](https://www.llnl.gov/), and from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy).
-
-
-### Public domain
-
-This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
-
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
 ### Disclaimer
 
