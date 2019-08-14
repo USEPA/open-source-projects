@@ -14,7 +14,7 @@ For EPA Teams, we have guidance on how EPA puts this EPA's Interim Open Source S
 
 **[Read EPA's Open Source Code guidance.](https://developer.epa.gov/guide/open-source-code/)**
 
-[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to resuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, and contributing.md file.   
+[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to resuse file for properly maintaining their open source project. All projects must include a readme.md, license.md,codeinventory.json and contributing.md file.   
 
 ### Credits
 
