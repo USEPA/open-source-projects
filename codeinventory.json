@@ -1,7 +1,7 @@
 {
   "name": "Open Source Projects",
   "description": "Contains files for teams to reuse when working in and with EPA Open Source projects.",
-  "license": MIT,
+  "license": "MIT",
   "openSourceProject": 1,
   "governmentWideReuseProject": 1,
   "tags": [
