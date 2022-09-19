@@ -4,7 +4,7 @@
 
 This repository contains files for teams to reuse when working in and with EPA Open Source projects.
 
-Also, this repository contains the link to [EPA's System Lifecycle Management Policy and Procedure which lays out EPA's Open Source Software Policy](https://www.epa.gov/irmpoli8/policy-procedures-and-guidance-system-life-cycle-management-slcm) and [EPA's Open Source Code Guidance](https://www.epa.gov/developers/open-source-software-and-epa-code-repository-requirements). 
+Also, this repository contains the link to [EPA's System Lifecycle Management Policy and Procedure](https://www.epa.gov/irmpoli8/policy-procedures-and-guidance-system-life-cycle-management-slcm) which lays out EPA's Open Source Software Policy and [EPA's Open Source Code Guidance](https://www.epa.gov/developers/open-source-software-and-epa-code-repository-requirements). 
 
 **[Read EPA's open source software policy.](https://www.epa.gov/sites/default/files/2021-03/documents/system_life_cycle_management_policy.pdf)**
 
