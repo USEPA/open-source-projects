@@ -10,7 +10,7 @@ Also, this repository contains the link to [EPA's System Lifecycle Management Po
 
 For EPA Teams, we have guidance on how EPA puts our open source software policies into practice on GitHub.
 
-**[Read EPA's Open Source Code guidance.](https://www.epa.gov/webguide/github-guidance)**
+**[Read EPA's GitHub Guidance.](https://www.epa.gov/webguide/github-guidance)**
 
 [EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to reuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, contributing.md file and the disclaimer below.   
 
