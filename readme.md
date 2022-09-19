@@ -4,17 +4,13 @@
 
 This repository contains files for teams to reuse when working in and with EPA Open Source projects.
 
-Also, this repository contains the link to [EPA's Interim Open Source Software Policy](https://www.epa.gov/irmpoli8/interim-open-source-software-oss-policy) and [EPA's Open Source Code Guidance](https://developer.epa.gov/guide/open-source-code/). 
-
-**[Read EPA's open source software policy.](https://www.epa.gov/irmpoli8/interim-open-source-software-oss-policy)**
+Also, this repository contains the link to [EPA's System Lifecycle Management Policy and Procedure](https://www.epa.gov/irmpoli8/policy-procedures-and-guidance-system-life-cycle-management-slcm) which lays out EPA's Open Source Software Policy and [EPA's Open Source Code Guidance](https://www.epa.gov/developers/open-source-software-and-epa-code-repository-requirements). 
 
 ## For EPA Teams
 
-For EPA Teams, we have guidance on how EPA puts this EPA's Interim Open Source Software Policy into practice.
+For EPA Teams, we have guidance on how EPA puts our open source software policies into practice on GitHub. Read [EPA's GitHub Guidance.](https://www.epa.gov/webguide/github-guidance)
 
-**[Read EPA's Open Source Code guidance.](https://developer.epa.gov/guide/open-source-code/)**
-
-[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to reuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, codeinventory.json and contributing.md file.   
+[EPA's Open Source Project repo](https://github.com/USEPA/open-source-projects) is for EPA teams to reuse file for properly maintaining their open source project. All projects must include a readme.md, license.md, contributing.md file and the disclaimer below.   
 
 ### Credits
 
